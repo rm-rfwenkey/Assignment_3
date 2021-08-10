@@ -22,4 +22,4 @@ elif select == 2:
                     subtract(number_1, number_2))
 
 else:
-    print("Invalid input"
+    print("Invalid input")
